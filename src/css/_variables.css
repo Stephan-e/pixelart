@@ -3,10 +3,10 @@ $font-pixel: 'minecraftiaregular', 'Helvetica Neue Light', 'Helvetica Neue',
 $font-icons: 'WebFontIcons';
 $font-monospace: 'monospace';
 
-$color-scorpion: #585858;
+$color-scorpion: #00ade5;
 $color-boulder: #757575;
 $color-dustyGray: #969696;
-$color-silver: #bbb;
+$color-silver: #00ade5;
 $color-brandyRose: #b17e7e;
 
 /* Button colors */
@@ -14,9 +14,9 @@ $color-tamarillo: #961818;
 $color-darkTan: #6b1010;
 $color-moccaccino: #741515;
 
-$color-mineShaft: #313131;
+$color-mineShaft: #fddb00;
 $color-doveGray: #707070;
-$color-tundora: #4b4949;
+$color-tundora: #ed189b;
 
 $color-lotus: #803c3c;
 $color-buccaneer: #733939;
@@ -30,6 +30,6 @@ $color-chathamsBlue: #164075;
 $color-chambray: #2f5382;
 $color-cloudBurst: #253c5a;
 
-$color-alto: #e0e0e0;
+$color-alto: #e64025;
 $color-silveChalice: #a0a0a0;
 $color-nobel: #b7b7b7;
